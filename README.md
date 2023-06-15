@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Fix OpenVINO missing batch-size bug (#9264)
