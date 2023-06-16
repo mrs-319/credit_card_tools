@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fix device counting method to account for double-digit device IDs (#8502)
