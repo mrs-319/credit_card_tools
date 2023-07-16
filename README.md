@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
