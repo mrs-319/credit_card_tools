@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add YOLOv8 LibTorch C++ inference example (#7090)
