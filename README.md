@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
