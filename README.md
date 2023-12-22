@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update Docs Home and Neural Magic pages (#7243)
