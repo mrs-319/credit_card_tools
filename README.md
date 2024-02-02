@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
