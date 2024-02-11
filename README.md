@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Allow Annotator PIL.Image inputs (#8397)
