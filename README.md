@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Optimize function calls to method calls (#8507)
