@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Expand Model method type hinting (#8279)
