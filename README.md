@@ -1,1 +1,1 @@
-fix resume training
+Elaborate Train and Predict mode docs arguments (#8137)
